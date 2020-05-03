@@ -1,0 +1,43 @@
+.button {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+}
+
+.button-dashboard {
+	height: 70px;
+}
+
+.button > img {
+	margin-right: 5px;
+}
+
+.dashboard-icon {
+	width: 60px;
+	height: 60px;
+}
+
+.navbar-icon {
+	width: 40%;
+	height: 40px;
+}
+
+.menu-dashboard {
+	margin-bottom: 20px;
+}
+
+.ngalongware-center {
+	text-align: center;
+}
+
+.ngalongware-font-9 {
+	font-size: 9px;
+}
+.ngalongware-right {
+	text-align: right;
+}
+.ngalongware-color-bg-blue{
+	background-color: #3090C7;
+	font-size: 9px;
+	color: white;
+}
